@@ -13,3 +13,6 @@ Há um método broadcast para enviar mensagens a todos os clientes conectados.
 Adicionado uma thread para ler mensagens do servidor continuamente.
 É possível que o cliente envie mensagens continuamente em um loop.
 Com as modificações feitas, tanto o servidor quanto os clientes podem enviar e receber mensagens continuamente, e o servidor pode gerenciar múltiplos clientes simultaneamente.
+
+## Vídeo prático
+https://youtu.be/PvO-un3P2os 
